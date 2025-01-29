@@ -1,0 +1,14 @@
+---
+name: urban-data-analysis
+dependencies:
+ - python=3.12
+ - ipykernel
+ - pandas
+ - matplotlib
+ - openpyxl
+ - "altair>=5"
+ - seaborn
+ - statsmodels
+ - geopandas
+ - tqdm
+ - requests
