@@ -5,7 +5,7 @@ Location: 305 HN<br>
 Class time: Thursday 7:30-9:20 PM
 
 Instructor: Dan Levine<br>
-Email: dlevine01 at gmail.com<br>
+Email: Daniel.Levine@hunter.cuny.edu<br>
 Office hours: Book [here](https://calendar.app.google/S4jSCKJtdKz76t7Z7)  
 
 ## Course overview
