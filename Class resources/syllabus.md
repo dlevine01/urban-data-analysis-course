@@ -1,15 +1,11 @@
 
 # Urban Data Analysis Course Syllabus
 
-Location: 305 HN
-
+Location: 305 HN<br>
 Class time: Thursday 7:30-9:20 PM
 
-
-Instructor: Dan Levine
-
-Email: dlevine01@gmail.com
-
+Instructor: Dan Levine<br>
+Email: dlevine01 at gmail.com<br>
 Office hours: Book [here](https://calendar.app.google/S4jSCKJtdKz76t7Z7)  
 
 ## Course overview
