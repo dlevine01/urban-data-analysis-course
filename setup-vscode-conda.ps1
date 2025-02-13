@@ -1,3 +1,6 @@
+# move to user home directory
+cd $env:USERPROFILE;
+
 # install extensions in vscode
 code --install-extension ms-python.python ms-python.debugpy ms-toolsai.jupyter;
 
