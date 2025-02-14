@@ -63,8 +63,12 @@ PDF versions of these readings will be shared.
 ### Lab assignments
 Weekly in-class and at-home lab assignments will demonstrate foundational Python data skills in Jupyter notebooks. Each lab will include tasks to test your understanding and ability to operationalize these skills on real data. We will start these labs in class and you will be expected to complete them before the following class. 
 
+Submit weekly labs in the Brightspace assignment portal before the next week's class. Save your notebook(s) as `.ipynb` file(s), with your name added to the end of each filename.
+
 ### Project assessments
 These at-home analysis assessments will require you to put together the skills you have learned to answer real-world questions. Each assignment will point you to data sources and ask you to complete the steps required to evaluate and analyze the data. You will need to use your code skills to answer questions.
+
+Submit these assignments in the Brightspace portal before the due date. Save your notebook as a `.ipynb` file, with your name added to the end of the filename.
 
 ### Final project
 Working individually or in groups of up to 3, you will prepare and analyze one or more datasets to illuminate novel findings. Your project proposal will identify your group, the datasets you will use, and the research questions you seek to answer. The final project deliverables include slides summarizing the key findings; a brief report detailing your findings as well as describing the data sources and methodologies; and complete code used to analyze the data.
