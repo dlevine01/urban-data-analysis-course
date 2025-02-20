@@ -1,6 +1,9 @@
 # Packages to install
 $packages = @("ipykernel","pandas")
 
+# Set exeption policy
+Set-ExceptionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+
 # Set project directory
 $ProjectDir = Join-Path -Path $env:USERPROFILE -ChildPath "urban-data-analysis"
 
