@@ -16,4 +16,6 @@ Start with the [syllabus](/Class%20resources/syllabus.md).
     ```
 
 1. Open the downloads folder. Click and drag the 'setup.ps1' file to the Terminal prompt line. It should show as `C:\Users\<your-net-id>\Downloads\setup.ps1`. 
-2. Press Enter and wait.
+2. Press Enter
+3. Type `R` and press enter when prompted.
+4. Wait.
