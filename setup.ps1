@@ -1,5 +1,5 @@
 # Packages to install
-$packages = @("ipykernel","pandas")
+$packages = @("ipykernel","pandas","seaborn","matplotlib")
 
 # Set exeption policy
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
