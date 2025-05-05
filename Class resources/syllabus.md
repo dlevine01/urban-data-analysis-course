@@ -39,8 +39,8 @@ This course will teach and use the Python programming language as the main platf
 | Week 9<br>Apr 10  | Salkind & Frey Ch 5 pp 76-90 & Ch 16 pp 274-283  | Lecture:<br>- Correlation<br>- Regression<br><br>Lab:<br>- Computing linear regression in `statsmodels`<br>- Interpreting _p_-values and _r_^2 |
 | Week 10<br>Apr 24 | [Introduction to GeoPandas](https://geopandas.org/en/stable/getting_started/introduction.html)   | Lecture & Lab:<br>- Using geospatial data<br>- GeoDataFrames<br>- Reading and writing spatial data<br>- Make a map <br> - `for` loops<br>|
 | Week 11<br>May 1  | - Analysis assignment 2 <br> - [Introduction to Altair](https://idl.uw.edu/visualization-curriculum/altair_introduction.html) <br> - [An Introduction to Altair](https://vallandingham.me/altair_intro.html) <br> - [How to create your first Datawrapper chart](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart) | Lecture & Lab:<br>- Advanced data visualization tools  |
-| Week 12<br>May 8  |  | Lecture:<br>- Using code to replicate and automate <br><br>Lab:<br>- Processing multiple files<br>- open source software and managing environments (`conda`)<br><br>Lab:<br>- Open tech support for final projects|
-| Week 13<br>May 15<br> | Final projects due   ||
+| Week 12<br>May 8  |  | Lecture:<br> - Presenting analytic findings to non-technical audiences <br> - Review of key topics<br>Lab:<br>- Open tech support for final projects|
+| Week 13<br>May 15<br> | Final projects due   |- Using code to replicate and automate <br><br>Lab:<br>- Processing multiple files<br>- open source software and managing environments (`conda`)<br><br>|
 
 ## Reading Materials
 
