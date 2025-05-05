@@ -78,61 +78,96 @@ Working individually or in groups of up to 3, you will prepare and analyze one o
 - Visualize data to communicate your findings effectively.
 - Interpret and report your results in a clear and concise manner.
 #### Assignment
+**Assignment**
 
-1.     Dataset Selection:
-	- Choose one dataset from the provided list: 
-		- [Housing Database](https://data.cityofnewyork.us/Housing-Development/Housing-Database/6umk-irkx/about_data)
-		- [Citi Bike trips](https://s3.amazonaws.com/tripdata/index.html)
-		- [Legally Operating Businesses](https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh/about_data)
-		- [MTA Monthly Ridership](https://data.ny.gov/Transportation/MTA-Monthly-Ridership-Traffic-Data-Beginning-Janua/xfre-bxip/data_preview)
-		- [Traffic Collisions Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
-		- [NYC PLUTO](https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/64uk-42ks/about_data)
-		- [311 Service requests](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
-		- [Housing Maintenance Code Violations](https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5/about_data)
-		- [Trees](https://data.cityofnewyork.us/Environment/Forestry-Tree-Points/hn5i-inap/about_data)
-		- [New York City Restaurant Inspection Results](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j)
-		- [NYC Greenhouse Gas Emissions Inventory](https://data.cityofnewyork.us/Environment/NYC-Greenhouse-Gas-Emissions-Inventory/wq7q-htne/about_data)
+* Dataset Selection:
 
-	- If desired, students may propose and use an alternative dataset with prior approval.
-2.     Research Questions:
-	- Formulate two to three research questions related to your dataset.
-	- Example: _Do Citi Bike members take longer trips than casual riders?_ _Which Citi Bike locations are more popular on weekends than weekdays?_ 
-3.     Data cleaning and preparation:
-	- Handle missing/null or invalid values.
-	- Process and transform datetime objects (e.g., extract months, days, or hours).
-	- Filter or aggregate data to focus on relevant aspects of your research questions.
-4.     Exploratory Data Analysis (EDA):
-	- Provide descriptive statistics for key variables.
-	- Create at least four visualizations, including: 
-	- Histograms, line plots, scatter plots, and bar charts.
-	- Ensure all plots have proper labels, titles, and legends.
-5.     Statistical Analysis:
-	- Perform at least one of the following: 
-	- Hypothesis testing (e.g., T-tests, ANOVA).
-	- Regression analysis (simple or multiple linear regression).
-	- Correlation analysis.
+  * Choose a topic to explore and one or more dataset(s) from the provided list: 
+
+    * [Housing Database](https://data.cityofnewyork.us/Housing-Development/Housing-Database/6umk-irkx/about_data)
+
+    * [Citi Bike trips](https://s3.amazonaws.com/tripdata/index.html)
+
+    * [Legally Operating Businesses](https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh/about_data)
+
+    * [MTA Monthly Ridership](https://data.ny.gov/Transportation/MTA-Monthly-Ridership-Traffic-Data-Beginning-Janua/xfre-bxip/data_preview)
+
+    * [Traffic Collisions Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+
+    * [NYC PLUTO](https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/64uk-42ks/about_data)
+
+    * [311 Service requests](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
+
+    * [Housing Maintenance Code Violations](https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5/about_data)
+
+    * [Trees](https://data.cityofnewyork.us/Environment/Forestry-Tree-Points/hn5i-inap/about_data)
+
+    * [New York City Restaurant Inspection Results](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j)
+
+    * [NYC Greenhouse Gas Emissions Inventory](https://data.cityofnewyork.us/Environment/NYC-Greenhouse-Gas-Emissions-Inventory/wq7q-htne/about_data)
+
+  * If desired, students may propose and use an alternative dataset with prior approval.
+
+* Research Questions:  
+  * Formulate two to three research questions related to your dataset.
+
+  * Example: *Do Citi Bike members take longer trips than casual riders?* *Which Citi Bike locations are more popular on weekends than weekdays?*
+
+* Data cleaning and preparation:  
+  * Handle missing/null or invalid values.
+
+  * Process and transform datetime objects (e.g., extract months, days, or hours).
+
+  * Filter or aggregate data to focus on relevant aspects of your research questions.
+
+* Exploratory Data Analysis (EDA):  
+  * Provide descriptive statistics for key variables.
+
+  * Create visualizations such as histograms, line plots, scatter plots, and bar charts to illustrate distributions and trends in the data. 
+
+* Identify or compose appropriate measures to answer your research question
+
+  * e.g. average duration of Citi Bike trips; average subway ridership during morning rush hours; net new residential dwelling units
+
+* Statistical Analysis:  
+  * Compute and analyze statistics of the data to answer research questions and test hypotheses.  
+  * Choose and implement one or more appropriate statistical test(s) to evaluate the significance of the analytic findings e.g.  
+    *  T-test to test the significance of differences between means; or  
+    * regression analysis to test the strength and significance of a relationship between numeric variables
 
 #### Deliverables
-6. Project proposal (due April 8)
+1. Project proposal (due April 8)
 	- What research questions will you answer?
 	- Which dataset(s) will you use?
 	- What methods will you use to prepare and analyze the data?
 7. Final project (due May 15)
-	1. Final Report:
-		- Submit a report (maximum 2 pages) including: 
-		- Introduction and Background: Explain the context for the data and why this exploration is interesting.
-		- Research Questions and Hypotheses: State your questions and hypotheses clearly.
-		- Methods: Summarize the steps taken for cleaning, EDA, and statistical analysis.
-		- Findings and Visualizations: Present your results with appropriate visualizations. Focus on the most interesting findings.
-		- Conclusion and Summary: Summarize your insights and their implications.
-	2. Slides: 
-		- Prepare 3 slides explaining your most interesting findings to a non-technical audience
-		- Use easy-to-understand data visualizations
-	3.     Code Notebook:
-		- Submit a jupyter notebook with your complete workflow: 	
-		- Loading, cleaning, and exploring the data.
-		- Code for statistical analysis and visualizations.
-		- Proper markdown cells explaining each step.
+* Final Report:  
+  * Submit a report (maximum 3 pages, excluding visualizations) including:   
+    * Introduction and Background: Explain the context for the data and why this exploration is interesting.  
+    * Research Questions and Hypotheses: State your questions and hypotheses clearly.  
+    * Methods: Summarize the steps taken for cleaning, EDA, and statistical analysis.  
+    * Findings and Visualizations: Present your results with appropriate visualizations. Focus on the most interesting findings.  
+    * Conclusion and Summary: Summarize your insights and their implications.  
+* Slides:   
+  * Prepare 3 slides explaining your most interesting findings to a non-technical audience  
+  * Use easy-to-understand data visualizations.  
+*     Code Notebook:  
+  * Submit a Jupyter notebook with your complete, annotated workflow  
+  * Load data   
+    * If data is loaded from files stored on your computer, share copies of these files, as well, with your submission  
+    * If data were queried from OpenData or other sources, explain in your report methodology the query used  
+  * Prepare and clean data  
+    * Demonstrate how you reviewed the accuracy and completeness of the data, for the topic and questions you studied  
+    * Where useful, show exploratory data visualizations used to investigate the data.  
+    * Use markdown cells to annotate any data issues and the approach you took to cleaning data.  
+    * Reshape or  summarize the data and create any new measures, as needed, for your research questions  
+  * Analyze data to answer research questions or test hypotheses  
+    * Perform the analytic steps to answer your research questions (These steps will depend on your particular questions).  
+    * Output charts, summary DataFrames, numeric results, statistical test results or regression reports relevant to your analysis.   
+    * Use markdown cells to annotate each of these numeric results and what they signify.  
+    * Generate charts or visualizations to illustrate final results and key findings and/or export key results to illustrate using other tools  
+  * Your code notebook should run cleanly from top to bottom without any errors.  
+  * Any key results should be outputted (i.e the results should be visible below a code cell without re-running the code) in your final saved version, and these results should be annotated with markdown cells as well.
 ##### Groups
 Final projects can be completed individually or in groups of 2 or 3 students. Collaborative projects can be an opportunity to learn from and along with fellow students. 
 
